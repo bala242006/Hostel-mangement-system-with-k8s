@@ -23,15 +23,6 @@ A **Hostel Management System** built using **PHP** and **MySQL**, containerized 
 <b>Figure 1:</b> Warden Dashboard of the Hostel Management System running on Kubernetes.
 </p>
 ---
-## Repository Highlights
-
-- Containerized PHP application using Docker
-- Deployed on Kubernetes (Minikube)
-- Persistent MySQL storage using PV and PVC
-- Secure credential management using Kubernetes Secrets
-- Internal and external networking using ClusterIP and NodePort Services
-- Step-by-step deployment guide included
-- Kubernetes manifests organized under the `k8s/` directory
 
 #  Table of Contents
 
