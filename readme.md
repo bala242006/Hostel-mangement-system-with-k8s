@@ -1,4 +1,4 @@
-# 🏠 Hostel Management System on Kubernetes
+#  Hostel Management System on Kubernetes
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
