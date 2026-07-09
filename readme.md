@@ -13,6 +13,7 @@ A **Hostel Management System** built using **PHP** and **MySQL**, containerized 
 ---
 
 ##  Project Preview
+<img width="1359" height="575" alt="warden_dashboard png" src="https://github.com/user-attachments/assets/286cce5c-76a0-493e-b045-e5c2db52768b" />
 
 <p align="center">
     <img src="screenshots/warden_dashboard.png" alt="Hostel Management System" width="900">
@@ -21,7 +22,6 @@ A **Hostel Management System** built using **PHP** and **MySQL**, containerized 
 <p align="center">
 <b>Figure 1:</b> Warden Dashboard of the Hostel Management System running on Kubernetes.
 </p>
-
 ---
 ## Repository Highlights
 
